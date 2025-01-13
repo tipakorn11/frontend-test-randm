@@ -48,3 +48,9 @@ export default tseslint.config({
   },
 })
 ```
+use pnpm npm or yarn to run the project
+```
+pnpm install
+npm install
+yarn install
+```
