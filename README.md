@@ -10,7 +10,22 @@ Currently, two official plugins are available:
 # Use pnpm npm or yarn to run the project
 
 ```
-pnpm install
+pnpm install (prefer)
 npm install
 yarn install
+```
+
+# use for pnpm 
+```
+pnpm dev
+```
+
+# use for npm 
+```
+npm run dev 
+```
+
+# use for yarn
+```
+yarn dev
 ```
